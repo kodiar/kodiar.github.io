@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="repository.kodiar" name="kodiAR Kodi add-on repository" provider-name="kodiar" version="0.0.1">
+    <extension name="Example Repository" point="xbmc.addon.repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/kodiar/kodiar.github.io/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/kodiar/kodiar.github.io/main/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/kodiar/kodiar.github.io/main/repo/zips/</datadir>
+        </dir>
+        <dir maxversion="18.9.9" minversion="14.0.0">
+            <info compressed="false">https://raw.githubusercontent.com/kodiar/kodiar.github.io/main/gotham/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/kodiar/kodiar.github.io/main/gotham/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/kodiar/kodiar.github.io/main/gotham/zips/</datadir>
+        </dir>
+        <dir minversion="19.0.0">
+            <info compressed="false">https://raw.githubusercontent.com/kodiar/kodiar.github.io/main/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/kodiar/kodiar.github.io/main/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/kodiar/kodiar.github.io/main/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>kodiAR Kodi add-ons beta versions repository</summary>
+        <summary lang="es">Repositorio de versiones beta de addons Kodi de kodiAR</summary>
+        <description>Kodi media center addons by kodiAR</description>
+        <description lang="es">Addons para el centro de medios Kodi mantenidos por kodiAR</description>
+        <disclaimer />
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon></addons>
