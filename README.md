@@ -2,8 +2,7 @@
 
 IMPORTANTE: Este repositorio contendrá versiones en estado "beta" del addon,
 esto significa que sólo debe ser usado por usuarios avanzados, dispuestos a
-colaborar en el mantenimiento del addon, esto significa que deben estar
-dispuestos a:
+colaborar en el mantenimiento del addon:
 
 * Modificar optiones de configuración avanzadas de Kodi
 * Compartir información de errores, extractos de logs de Kodi
@@ -12,7 +11,7 @@ dispuestos a:
 En otras palabras, usuarios "beta testers".
 
 No brindaremos ayuda a usuarios que sólo quieren usar el addon sin realizar
-considerable esfuerzo adicional. Ese tipo de de usuarios debe seguir
+considerable esfuerzo adicional. Ese tipo de usuarios debe seguir
 instalando el addon desde el repositorio de addons oficial de Kodi, al cual
 esperamos poder publicar versiones estables del mismo que serán el resultado
 del trabajo que realicemos aquí.
